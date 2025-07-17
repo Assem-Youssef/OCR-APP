@@ -7,8 +7,6 @@ This solution provides a lightweight and serverless web application that allows 
 <BR>
 
 ## Table of Contents
-- [OCR Web Application ( Serverless Architecture )](#ocr-web-application--serverless-architecture-)
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Solution Architecture](#solution-architecture)
 - [Deployment](#deployment)
